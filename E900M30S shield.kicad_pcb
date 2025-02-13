@@ -316,7 +316,7 @@
 			(uuid "3f2e721f-e128-4e7c-a602-0554ce0ffe52")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 11.43 360)
+			(at 0 11.43 0)
 			(layer "F.Fab")
 			(uuid "df506227-9f01-4786-9d7f-ce8c3c07447a")
 			(effects
@@ -661,7 +661,7 @@
 			(uuid "5ae5c9ab-2f6c-46bf-82fa-d8f2dcd5c0e2")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 1.27 360)
+			(at 0 1.27 0)
 			(layer "F.Fab")
 			(uuid "06f04d10-baa3-400a-95b0-b201ea54d257")
 			(effects
@@ -710,7 +710,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at 0 -1.68 360)
+			(at 0 -1.68 0)
 			(layer "F.SilkS")
 			(uuid "f0c5c346-88ef-4023-8e00-8746886b8720")
 			(effects
@@ -721,7 +721,7 @@
 			)
 		)
 		(property "Value" "10uf"
-			(at 0 1.68 360)
+			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "9f5eada1-cfe1-4947-a084-99b61694014f")
 			(effects
@@ -876,7 +876,7 @@
 			(uuid "19bf0178-118d-4f4d-bf43-fb66a0335293")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "1fbfe11e-6d3d-43b3-bf90-d14b3e1f729e")
 			(effects
@@ -1402,7 +1402,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C2"
-			(at 0 -1.68 360)
+			(at 0 -1.68 0)
 			(layer "F.SilkS")
 			(uuid "a7e7ef57-6aa2-451a-be39-9ff21ec001a7")
 			(effects
@@ -1413,7 +1413,7 @@
 			)
 		)
 		(property "Value" "100uf"
-			(at 0 1.68 360)
+			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "ca367616-18f7-4eaf-8e1a-383edcccab52")
 			(effects
@@ -1568,7 +1568,7 @@
 			(uuid "be4ca8ad-c810-4f53-8bb4-af224b2573d8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "99a3821e-667e-4399-a16d-b14155dcb502")
 			(effects
