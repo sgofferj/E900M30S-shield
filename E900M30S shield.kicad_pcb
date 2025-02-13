@@ -163,7 +163,7 @@
 		(property ki_fp_filters "Connector_JST:JST_EH_S10B-EH_1x10_P2.50mm_Horizontal")
 		(path "/8fd9aa9d-eb5c-4e24-a5d8-5124198d0507")
 		(sheetname "Root")
-		(sheetfile "E900T30S shield.kicad_sch")
+		(sheetfile "E900M30S shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.33)
@@ -508,7 +508,7 @@
 		(property ki_fp_filters "Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal")
 		(path "/ce9f8e96-2ecc-44e0-b66e-b8c1d21e18e5")
 		(sheetname "Root")
-		(sheetfile "E900T30S shield.kicad_sch")
+		(sheetfile "E900M30S shield.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.33)
@@ -720,7 +720,7 @@
 				)
 			)
 		)
-		(property "Value" "10uf"
+		(property "Value" "10uF"
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "9f5eada1-cfe1-4947-a084-99b61694014f")
@@ -773,7 +773,7 @@
 		(property ki_fp_filters "Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm Capacitor_THT:C_Rect_L29.0mm_W7.6mm_P27.50mm_MKT Capacitor_THT:C_Rect_L24.0mm_W7.0mm_P22.50mm_MKT Capacitor_THT:C_Rect_L11.5mm_W5.0mm_P10.00mm_MKT Capacitor_THT:C_Rect_L9.0mm_W3.6mm_P7.50mm_MKT")
 		(path "/e0218b26-d3c4-424e-a1f6-cb861ed901d9")
 		(sheetname "Root")
-		(sheetfile "E900T30S shield.kicad_sch")
+		(sheetfile "E900M30S shield.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -923,7 +923,7 @@
 		(property "Reference" "U1"
 			(at -9.69 -21.135 -90)
 			(layer "F.SilkS")
-			(uuid "e2dcceca-8b33-4c2c-872b-7a84f7d7a8e5")
+			(uuid "067c2275-922f-4543-828e-88e66807355d")
 			(effects
 				(font
 					(size 1 1)
@@ -934,7 +934,7 @@
 		(property "Value" "E22-900M30S"
 			(at -2.705 21.135 -90)
 			(layer "F.Fab")
-			(uuid "e8d80f6d-6991-4d81-b421-06361c0339d3")
+			(uuid "fee9d9d1-a9f9-4eaa-adb2-a703713ee0a7")
 			(effects
 				(font
 					(size 1 1)
@@ -946,7 +946,7 @@
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "93b1cfa3-ccc3-4c6c-bd5b-45d6ea1fc55d")
+			(uuid "c95be1d4-f704-46df-9320-1a85b4116f86")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -958,7 +958,7 @@
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4ee33715-8112-4c7b-abbb-dc9e927167a5")
+			(uuid "d6621b79-3d34-48b8-8810-b20dd792f8a7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -970,7 +970,7 @@
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2d4246a9-b302-4cff-bbec-b77cdd870a25")
+			(uuid "e55fbf0d-23e0-495d-954d-4a32cb133d2a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -983,7 +983,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7abd72f1-71c8-48b3-b5d0-de989e18ee58")
+			(uuid "2d5f1172-cc8b-4f8a-a630-36a94c3bd0a7")
 			(effects
 				(font
 					(size 1 1)
@@ -996,7 +996,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2612c18a-d7e6-4d89-8c12-2b6e1b001af3")
+			(uuid "1a889e19-dcac-48ad-adf8-77bfd3c308b3")
 			(effects
 				(font
 					(size 1 1)
@@ -1009,7 +1009,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e224dcb9-140a-4b92-a87e-8214b52de3a7")
+			(uuid "f72d43e4-dd16-430a-ba27-d87aa45c05de")
 			(effects
 				(font
 					(size 1 1)
@@ -1022,7 +1022,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "daf4aa60-fdfa-4e8d-96ee-cf2baa780dcf")
+			(uuid "b40bdcca-842d-4aa9-81d5-6c92cfb3efac")
 			(effects
 				(font
 					(size 1 1)
@@ -1032,7 +1032,7 @@
 		)
 		(path "/d905ce14-6e94-41d6-8140-2bed6b004e56")
 		(sheetname "Root")
-		(sheetfile "E900T30S shield.kicad_sch")
+		(sheetfile "E900M30S shield.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -12 19.25)
@@ -1042,7 +1042,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "29a38ea5-e834-4aa0-8109-c419aefb0f75")
+			(uuid "20cd2b8e-ff7d-4396-bfe3-6495d3834b76")
 		)
 		(fp_line
 			(start 12 19.25)
@@ -1052,7 +1052,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4c19ef55-2324-4995-84da-50419f33fde7")
+			(uuid "b0233c7a-30e5-451d-a84b-a02f6d43d63f")
 		)
 		(fp_line
 			(start 12 19.25)
@@ -1062,7 +1062,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6fa3f84b-f2cc-4a39-941f-3cacad3dd134")
+			(uuid "d80e587d-648f-4099-80ef-1256c64105d1")
 		)
 		(fp_line
 			(start -12 -17.715)
@@ -1072,7 +1072,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "39bd4718-0a05-41b0-bff8-82d3f9c4142b")
+			(uuid "b672630f-fd8b-40f4-89ae-6c9e5d3d386c")
 		)
 		(fp_line
 			(start -12 -19.25)
@@ -1082,7 +1082,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "89f74674-7c3f-4245-a4c0-5c94ab1ec454")
+			(uuid "9d0a5ff1-561c-4bc0-a964-0ff4ec1dcf72")
 		)
 		(fp_line
 			(start 12 -19.25)
@@ -1092,7 +1092,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6ccfe323-066b-480e-8df1-1bccaa0c14e5")
+			(uuid "0a0b860f-f070-401c-917d-2978a303ad46")
 		)
 		(fp_circle
 			(center 13.615 13.82)
@@ -1103,7 +1103,7 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "da2b2d45-32a8-4b4f-b2be-4ace9f4fad9c")
+			(uuid "31b754a1-2c4c-4ad9-9d34-00e6e622e6f8")
 		)
 		(fp_line
 			(start -12.865 19.5)
@@ -1113,7 +1113,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "729def21-27b3-4de5-95e2-ee3b90c937e7")
+			(uuid "150774f3-8ebe-4344-a85b-058579d7335a")
 		)
 		(fp_line
 			(start 12.865 19.5)
@@ -1123,7 +1123,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "148d69d5-a5aa-4ba8-b2f7-b7f78dfa29eb")
+			(uuid "f7956436-2b00-4e06-b0b4-8863665e8b9f")
 		)
 		(fp_line
 			(start -12.865 -19.5)
@@ -1133,7 +1133,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "a7f8c3c6-e5c2-4eb9-8e05-4c6380ac1474")
+			(uuid "856ebbaf-49d0-4de6-8216-5d34d8171323")
 		)
 		(fp_line
 			(start 12.865 -19.5)
@@ -1143,7 +1143,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "11e7a298-394e-4950-af19-cb7367574ea0")
+			(uuid "73df2fea-6fef-4f50-a06d-4d90e47016cf")
 		)
 		(fp_line
 			(start -12 19.25)
@@ -1153,7 +1153,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "f1db325d-4eeb-47f9-98c3-c770d7f1654e")
+			(uuid "6e3debe4-abc0-4604-b57c-0182b888c81c")
 		)
 		(fp_line
 			(start 12 19.25)
@@ -1163,7 +1163,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "9c4782fe-88cb-4a79-a10e-4ef464bc38cb")
+			(uuid "a5d7d0c2-f51e-4b14-ad68-a1d5ba9eb53c")
 		)
 		(fp_line
 			(start -12 -19.25)
@@ -1173,7 +1173,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "e4ec6972-a3ab-433b-87e8-36beec91cf53")
+			(uuid "3764c2e8-4775-48c1-8cc8-d5ecacb44e66")
 		)
 		(fp_line
 			(start 12 -19.25)
@@ -1183,7 +1183,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "63adb7e0-b69b-4ca1-aa5e-f505efbbed73")
+			(uuid "bdc5e5fe-2f4e-4474-81b2-62659636c940")
 		)
 		(fp_circle
 			(center 13.615 13.82)
@@ -1194,7 +1194,7 @@
 			)
 			(fill none)
 			(layer "F.Fab")
-			(uuid "fb242e13-7dd5-40a5-9960-cd0151bc1a55")
+			(uuid "9552da9e-b64f-4e5d-831a-3669b6ec6e34")
 		)
 		(pad "1" smd rect
 			(at 11.575 13.82 270)
@@ -1203,7 +1203,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "b719cac1-287a-4178-89c9-d62d8eb66ead")
+			(uuid "b3aa0013-566f-4aea-8a30-ae0ac6eaf04c")
 		)
 		(pad "2" smd rect
 			(at 11.575 11.28 270)
@@ -1212,7 +1212,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "0cc106e7-9288-430b-ad03-e69f6bbee29b")
+			(uuid "688ff895-bfce-4026-a436-3becb56656f9")
 		)
 		(pad "3" smd rect
 			(at 11.575 8.74 270)
@@ -1221,7 +1221,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "97d0a389-c68f-48d0-b576-7c4c6303dcaf")
+			(uuid "80a9707f-fcd8-4e27-b675-2a65efb30c35")
 		)
 		(pad "4" smd rect
 			(at 11.575 1.14 270)
@@ -1230,7 +1230,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "b4c1b680-859d-4206-8691-ff1fd79128eb")
+			(uuid "ffebc7c0-a6fc-4460-b628-a08b539a57ec")
 		)
 		(pad "5" smd rect
 			(at 11.575 -1.4 270)
@@ -1239,7 +1239,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "88a8a578-197a-4b75-93df-7c0f4a00e1d2")
+			(uuid "f772e13d-a032-4e07-9a1c-4c4121172227")
 		)
 		(pad "6" smd rect
 			(at 11.575 -3.94 270)
@@ -1248,7 +1248,7 @@
 			(net 5 "RXEN")
 			(pinfunction "RXEN")
 			(pintype "input")
-			(uuid "28a1ce2e-ae47-4cc7-8c1e-ab1df338871e")
+			(uuid "63bee0c4-06a7-4a78-af05-f6e1d07be61a")
 		)
 		(pad "7" smd rect
 			(at 11.575 -6.48 270)
@@ -1257,7 +1257,7 @@
 			(net 10 "TXEN")
 			(pinfunction "TXEN")
 			(pintype "input")
-			(uuid "33a41378-84c7-4221-9c45-2ebcc44bc01f")
+			(uuid "24db00bf-b779-4c70-8f2a-90c7fb988175")
 		)
 		(pad "8" smd rect
 			(at 11.575 -9.02 270)
@@ -1266,7 +1266,7 @@
 			(net 9 "DIO2")
 			(pinfunction "DIO2")
 			(pintype "bidirectional")
-			(uuid "99f17ed1-125a-4eda-b055-1216f9bff429")
+			(uuid "96b4a64d-c468-4c13-b7a0-8c7735f9b020")
 		)
 		(pad "9" smd rect
 			(at 11.575 -11.56 270)
@@ -1275,7 +1275,7 @@
 			(net 1 "+5V")
 			(pinfunction "VCC")
 			(pintype "power_in")
-			(uuid "128a7566-7c5b-4583-a4f2-7e02616d060a")
+			(uuid "b7694c3d-2bbb-4e59-8159-35f868ed1194")
 		)
 		(pad "10" smd rect
 			(at 11.575 -14.1 270)
@@ -1284,7 +1284,7 @@
 			(net 1 "+5V")
 			(pinfunction "VCC")
 			(pintype "power_in")
-			(uuid "1f5328fb-a04d-45b3-947a-a3ad3b1df322")
+			(uuid "99e265b8-aaed-41b6-bb5d-1b1befd97f60")
 		)
 		(pad "11" smd rect
 			(at 11.575 -16.64 270)
@@ -1293,7 +1293,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "9d4ffa1c-3f1e-4058-9c85-05bf6b390192")
+			(uuid "c637b4ac-ec82-4932-bb0f-37c706440099")
 		)
 		(pad "12" smd rect
 			(at -11.575 -16.64 270)
@@ -1302,7 +1302,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "292781f9-ea71-4645-a680-177e52335643")
+			(uuid "5a732d6f-31c9-4f18-8a0c-05e20c90997a")
 		)
 		(pad "13" smd rect
 			(at -11.575 -14.1 270)
@@ -1311,7 +1311,7 @@
 			(net 7 "DIO1")
 			(pinfunction "DIO1")
 			(pintype "bidirectional")
-			(uuid "09c995f9-2fd4-4963-b3c7-a8c9385c3f89")
+			(uuid "96af4d6b-aa3c-4416-947f-dae466e4b6da")
 		)
 		(pad "14" smd rect
 			(at -11.575 -11.56 270)
@@ -1320,7 +1320,7 @@
 			(net 11 "BUSY")
 			(pinfunction "BUSY")
 			(pintype "output")
-			(uuid "65e2bdc4-b80d-4dde-9eed-1241d25f3b8a")
+			(uuid "f804d180-b1dc-42d6-8ada-895fad4d450b")
 		)
 		(pad "15" smd rect
 			(at -11.575 -9.02 270)
@@ -1329,7 +1329,7 @@
 			(net 13 "RST")
 			(pinfunction "~{RST}")
 			(pintype "input")
-			(uuid "7af1aa26-0a37-484c-9885-ba9cb222d878")
+			(uuid "7a242c14-b2e0-497f-aa03-d13c3f0cd89b")
 		)
 		(pad "16" smd rect
 			(at -11.575 -6.48 270)
@@ -1338,7 +1338,7 @@
 			(net 4 "MISO")
 			(pinfunction "MISO")
 			(pintype "output")
-			(uuid "d91959a1-2e20-4e23-883a-7e5812643ea5")
+			(uuid "6ef4972d-bdef-4188-a581-eaf4b46e9e9a")
 		)
 		(pad "17" smd rect
 			(at -11.575 -3.94 270)
@@ -1347,7 +1347,7 @@
 			(net 6 "MOSI")
 			(pinfunction "MOSI")
 			(pintype "input")
-			(uuid "4dee80b4-9640-405d-b9be-cc6f07145923")
+			(uuid "39c7199a-e188-4d12-8776-d317ffa7796e")
 		)
 		(pad "18" smd rect
 			(at -11.575 -1.4 270)
@@ -1356,7 +1356,7 @@
 			(net 12 "SCK")
 			(pinfunction "SCK")
 			(pintype "input")
-			(uuid "0a77eb5f-8c9c-414c-bdb4-b7ceae4f89a1")
+			(uuid "9ebb8346-cb1f-4343-a653-1e337870016d")
 		)
 		(pad "19" smd rect
 			(at -11.575 1.14 270)
@@ -1365,7 +1365,7 @@
 			(net 8 "NSS")
 			(pinfunction "NSS")
 			(pintype "input")
-			(uuid "312da26c-d79c-465f-a248-1b36e611ef43")
+			(uuid "233e990d-a52f-4481-ac0d-82f0293e6838")
 		)
 		(pad "20" smd rect
 			(at -11.575 8.74 270)
@@ -1374,7 +1374,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "738dc146-8b71-4edf-b8c5-a887c8c72333")
+			(uuid "2ca43b17-985d-4ce1-80fc-f02bcbd2f626")
 		)
 		(pad "21" smd rect
 			(at -11.575 11.28 270)
@@ -1383,7 +1383,7 @@
 			(net 3 "unconnected-(U1-ANT-Pad21)")
 			(pinfunction "ANT")
 			(pintype "output")
-			(uuid "4c0bab12-a351-480a-b8f9-e72cc735af7b")
+			(uuid "ca9b70a6-fd6d-43e6-aed9-beedfaab9e20")
 		)
 		(pad "22" smd rect
 			(at -11.575 13.82 270)
@@ -1392,7 +1392,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "8eee5a51-ff4b-43a7-896b-ff7c94e8f616")
+			(uuid "84e520c7-e718-4fa0-a4ef-db9c0ed1f522")
 		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
@@ -1412,7 +1412,7 @@
 				)
 			)
 		)
-		(property "Value" "100uf"
+		(property "Value" "100uF"
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "ca367616-18f7-4eaf-8e1a-383edcccab52")
@@ -1465,7 +1465,7 @@
 		(property ki_fp_filters "Capacitor_THT:C_Rect_L7.0mm_W3.5mm_P5.00mm Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm Capacitor_THT:C_Rect_L29.0mm_W7.6mm_P27.50mm_MKT Capacitor_THT:C_Rect_L24.0mm_W7.0mm_P22.50mm_MKT Capacitor_THT:C_Rect_L11.5mm_W5.0mm_P10.00mm_MKT Capacitor_THT:C_Rect_L9.0mm_W3.6mm_P7.50mm_MKT")
 		(path "/2072a85a-11df-4535-ad41-e58240cda2d5")
 		(sheetname "Root")
-		(sheetfile "E900T30S shield.kicad_sch")
+		(sheetfile "E900M30S shield.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -1736,6 +1736,18 @@
 		(layer "Edge.Cuts")
 		(uuid "fa5a1311-8b87-4b60-b388-e24d30050afa")
 	)
+	(gr_text "10uF"
+		(at 156.854639 127.038337 0)
+		(layer "F.SilkS")
+		(uuid "0eb567f5-4d1c-4070-9357-225dee34f863")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "MOSI"
 		(at 125.095 134.62 90)
 		(layer "F.SilkS")
@@ -1848,6 +1860,18 @@
 		(at 142.875 134.62 90)
 		(layer "F.SilkS")
 		(uuid "c5d73e67-05d1-41d3-8ca5-0f31d8f1f1d6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "100uF"
+		(at 156.39287 121.624884 0)
+		(layer "F.SilkS")
+		(uuid "d0f27a25-fd78-4001-af60-c187cea18a20")
 		(effects
 			(font
 				(size 1 1)

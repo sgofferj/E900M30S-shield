@@ -1990,7 +1990,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100uf"
+		(property "Value" "100uF"
 			(at 101.6 45.7199 90)
 			(effects
 				(font
@@ -2591,7 +2591,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uf"
+		(property "Value" "10uF"
 			(at 91.44 45.7199 90)
 			(effects
 				(font
