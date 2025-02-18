@@ -468,7 +468,7 @@
       "netlist": "",
       "plot": "",
       "pos_files": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "E900M30S shield.dsn",
       "step": "",
       "svg": "",
       "vrml": ""
