@@ -1,12 +1,12 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.8*
-G04 #@! TF.CreationDate,2025-02-15T12:45:03+02:00*
-G04 #@! TF.ProjectId,E900M30S shield,45393030-4d33-4305-9320-736869656c64,rev?*
-G04 #@! TF.SameCoordinates,Original*
-G04 #@! TF.FileFunction,Legend,Bot*
-G04 #@! TF.FilePolarity,Positive*
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.0*%
+%TF.CreationDate,2025-02-26T09:21:49+02:00*%
+%TF.ProjectId,E900M30S shield,45393030-4d33-4305-9320-736869656c64,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.8) date 2025-02-15 12:45:03*
+G04 Created by KiCad (PCBNEW 9.0.0) date 2025-02-26 09:21:49*
 %MOMM*%
 %LPD*%
 G01*
@@ -14,9 +14,8 @@ G04 APERTURE LIST*
 %ADD10R,1.700000X1.700000*%
 %ADD11O,1.700000X1.700000*%
 G04 APERTURE END LIST*
-%LPC*%
 D10*
-G04 #@! TO.C,J1*
+%TO.C,J1*%
 X119380000Y-128905000D03*
 D11*
 X121920000Y-128905000D03*
@@ -28,12 +27,11 @@ X134620000Y-128905000D03*
 X137160000Y-128905000D03*
 X139700000Y-128905000D03*
 X142240000Y-128905000D03*
-G04 #@! TD*
+%TD*%
 D10*
-G04 #@! TO.C,J2*
+%TO.C,J2*%
 X158750000Y-124460000D03*
 D11*
 X158750000Y-121920000D03*
-G04 #@! TD*
-%LPD*%
+%TD*%
 M02*
